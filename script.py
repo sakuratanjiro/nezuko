@@ -26,7 +26,7 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© @Unni0240</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
