@@ -31,12 +31,11 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Unni0240>Amal Nath</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: vps
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 
 """
